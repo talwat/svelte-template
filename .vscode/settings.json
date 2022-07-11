@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["sveltejs", "Typecheck"]
+  "cSpell.words": [
+    "markdownlint",
+    "shellcheck",
+    "sveltejs",
+    "Typecheck"
+  ],
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/tal/Code/svelte-template/.github/workflows/deploy.yml"
+  }
 }
